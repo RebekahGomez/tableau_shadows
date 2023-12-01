@@ -1,5 +1,9 @@
 # What We Do In The Shadows
 
+## Tech Stack
+
+- Tableau, Excel
+
 ### Description
 
 - The original dataset was a collection of all the horror movies on IMDb from 2012-2017. I focused on one outlier in the dataset, What We Do In The Shadows (2014) which turned out to be a modern cult classic, as well as a financial success.
